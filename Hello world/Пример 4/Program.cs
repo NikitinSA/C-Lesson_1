@@ -5,4 +5,4 @@ double NumberB = new Random().Next(1,100);
 Console.Write(NumberB);
 double result = NumberA/NumberB;
 Console.Write(" = ");
-Console.WriteLine(result);
+Console.Write(result);
